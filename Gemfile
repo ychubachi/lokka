@@ -40,7 +40,6 @@ end
 
 group :development do
   gem 'tapp'
-  gem 'unicorn'
 end
 
 group :test do
